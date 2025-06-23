@@ -37,20 +37,3 @@ A simple RESTful API built with **FastAPI** to manage patient records including 
   "bmi": 33.06,
   "verdict": "Obese"
 }
-
-🛠️ Installation & Run
-🔹 1. Clone the Repository
-
-git clone https://github.com/YOUR_USERNAME/patient-management-api.git
-cd patient-management-api
-
-🔹 2. Install Requirements
-
-pip install -r requirements.txt
-
-🔹 3. Run the Server
-
-uvicorn main:app --reload
-Open in browser: http://127.0.0.1:8000/docs
-
-![FastAPI - Swagger UI](https://github.com/user-attachments/assets/e77a8adf-1081-4407-9b54-8504e964183f)
