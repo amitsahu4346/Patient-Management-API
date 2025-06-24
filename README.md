@@ -2,6 +2,8 @@
 
 A simple RESTful API built with **FastAPI** to manage patient records including BMI and health status. It supports creating, reading, updating, deleting, and sorting patient data.
 
+![FastAPI - Swagger UI](https://github.com/user-attachments/assets/4f1b6336-5a5e-4e64-b8d2-102bd45fd2ea)
+
 ---
 
 ## 🚀 Features
